@@ -620,7 +620,8 @@ Thanks to our main contributors
 * [CVFox](http://www.cvfox.com)
 * [Dice](http://www.dice.com)
 * [Eluta (Canada)](http://www.eluta.ca)
-* [Eurojobs](https://www.eurojobs.com)
+*[Eurojobs](https://www.eurojobs.com)
+*[Europe Language Jobs](https://www.europelanguagejobs.com/)
 * [Fish4Jobs](http://www.fish4.co.uk)
 * [Glassdoor](https://www.glassdoor.com)
 * [Headhunter](http://www.headhunter.com)
@@ -635,6 +636,7 @@ Thanks to our main contributors
 * [SimplyHired](http://www.simplyhired.com)
 * [Xing](http://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
+
 
 ## [↑](#contents) Q&A Sites
 
